@@ -1,5 +1,5 @@
 # react-credit-card-form
-A simple credit card built in React.
+A simple credit card built in React to practice my react skills with.
 
 <img src="./src/assets/demo.jpg" width="500px" />
 
